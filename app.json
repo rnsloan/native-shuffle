@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "16.0.0",
+    "name": "Shuffle",
+    "icon": "app-icon.png",
+    "version": "1.0.0",
+    "slug": "shuffle",
+    "ios": {
+      "bundleIdentifier": "com.rnsloan.shuffle"
+    },
+    "android": {
+      "package": "com.rnsloan.shuffle"
+    }
+  }
+}
